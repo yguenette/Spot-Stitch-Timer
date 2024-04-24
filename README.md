@@ -11,3 +11,5 @@ This module is electronic circuitry packaged in a 3D printed box. This box sits 
 	4. Powered-Stitch: In this mode, the torch's trigger is isolated from the welder and sensed by the spot/time timer module. The Stitch welder-ON/welder-OFF time control are programmable: delay in the stitch mode and the stitch timer ON/OFF time are specified. This sequence ON/OFF is repeated until the trigger is pressed again.
 
 The Spot/Stitch timer module can be controlled by Bluetooth. The Android application called "Serial Bluetooth Terminal" can be used for this purpose.
+
+![20240423_174604](https://github.com/yguenette/Spot-Stitch-Timer/assets/102556736/4dfcf40d-8d10-4a2f-bb19-e2e831accd54)
